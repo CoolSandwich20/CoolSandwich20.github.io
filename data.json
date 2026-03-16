@@ -1,17 +1,13 @@
 [
   {
     "Title": "Idle Zoo World",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "ProjectDate": "Dec 2024 - June 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrated art assets.",
-      "Imported configuration data from Google Sheets using custom editor tools.",
-      "Implemented rewarded videos and analytics events.",
-      "Maintained and optimized codebase for performance and stability on low-end devices.",
-      "Ensured timely delivery and agile architecture for 5 iterations of the project."
+      "Idle resource management game where players build and manage their own zoo, attracting visitors and earning money to expand their collection of animals and facilities."
     ],
-    "footer": "Idle Resource Management Game, where players can build and manage their own zoo.<br>Attracting visitors and earning money to expand their collection of animals and facilities.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "webgl",
@@ -35,12 +31,9 @@
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Developed automation level editor tools to quickly import from PSB to playable levels.",
-      "Leveraged AI-assistant to create dynamic difficulty in level generation",
-      "Integrated Unity Analytics to track player behavior and optimize game design based on data insights."
+      "Merge-3 puzzle game where players pick up and merge glass pieces to clear levels and progress through the game."
     ],
-    "footer": "Merge-3 Puzzle Game, where players pick up and merge glass pieces to clear levels and progress through the game.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -54,16 +47,13 @@
   },
   {
     "Title": "Recycle Jam",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Integrated core systems from previous games to streamline development.",
-      "Created smooth fluid-like animations for flowing bottles using DOTween and Feel.",
-      "Leveraged AI-assistant to create dynamic difficulty in level generation"
+      "Merge-3 puzzle game where players pick up and merge bottles in the ocean to clear levels and progress through the game."
     ],
-    "footer": "Merge-3 Puzzle Game, where players pick up and merge bottles in the ocean to clear levels and progress through the game.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -76,17 +66,14 @@
   },
   {
     "Title": "Myth Showdown",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 8,
     "ProjectDate": "Oct 2025 - Nov 2025",
     "Publisher": "Crazy Labs",
     "Description": [
-      "Implement core gameplay autobattle systems, UI, and integrating art assets.",
-      "Collaborated with designers and artists to implement engaging mechanics and visually appealing assets.",
-      "Animated characters and effects using Unity's animation system and DOTween for smooth and responsive gameplay.",
-      "Developer Card-Rolling dependency system to manage character progression and unlocks."
+      "Auto-battler game where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches."
     ],
-    "footer": "Auto-Battler Game, where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -99,13 +86,12 @@
   },
   {
     "Title": "Hex Flow",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 6,
     "ProjectDate": "Dec 2025 - Jan 2026",
     "Publisher": "Crazy Labs",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Developed quick prototype for marketability testing with changing requirements and tight deadlines."
+      "Pixel flow-like puzzle game where players send colored rabbits to trays and try to clear hexagonal levels."
     ],
     "media": [
       {
@@ -114,22 +100,19 @@
         "alt": "Gameplay Video"
       }
     ],
-    "footer": "Pixel Flow like Puzzle game, where player sends colored rabbits to the tray and tries to clear the hexagonal level",
+    "footer": "Led production, pipeline development, and core game design.",
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.hexaflow"
   },
   {
     "Title": "Coffee Go!",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 9,
     "ProjectDate": "Jan 2026 - Feb 2026",
     "Publisher": "Crazy Labs",
     "Description": [
-      "Created customer level editing tools workflow inside Unity Prefab Stage by using Handles as a designer control points",
-      "Developed A* pathfinding solver algorithm based on state-space graph of the level and implemented it in C# to validate level solvability",
-      "Designed a solution for robust anyisize multicolored trays for cups, allowing development for new mechains",
-      "Collaborated with Lead developer to ensure seamless integration of tools into the development pipeline and provided ongoing support for tool usage and maintenance."
+      "Puzzle game where players click on colored cups inside trays to clear levels by sending them to the correct colored trays."
     ],
-    "footer": "Puzzle Game, where player clicks on colored cups inside trays trying to clear the level by sending them to the correct colored trays",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -141,14 +124,13 @@
   },
   {
     "Title": "Hidden Match World",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "ProjectDate": "July 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Developed level editor tools to streamline content creation."
+      "Hidden object puzzle game where players search for hidden objects in levels, using a match mechanic inspired by Zen Match."
     ],
-    "footer": "Hidden Object Puzzle Game, where players search for hidden objects in levels. Main Match mechanic is taken from Zen Match.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "webgl",
@@ -177,16 +159,13 @@
   },
   {
     "Title": "Spaceship Defense TD",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "ProjectDate": "Aug-Oct 2025",
     "Description": [
-      "Ensured core and meta are independent and modular for easy updates and additions.",
-      "Collaborated with designers and artists to implement engaging tower defense mechanics and visually appealing assets.",
-      "Optimized performance up to 300 simultaneous enemies on screen without frame drops on low-end devices.",
-      "Created level design tools such as Timeline-based wave editor and Graph-based tower upgrade system."
+      "Tower defense game where players choose towers and upgrades for their ship to defend against waves of enemies."
     ],
-    "footer": "Tower Defense Game, where player chooses towers and upgrades for his ship and defends against waves of enemies.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "webgl",
@@ -206,17 +185,14 @@
   },
   {
     "Title": "Miasma",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 8,
     "SubTitle": "College Project",
     "ProjectDate": "Jan-Sep 2025",
     "Description": [
-      "Responsible for architecture, PRs, code reviews and mentoring other developers.",
-      "Dividing tasks among team members.",
-      "Troubleshooting of URP issues between 2D and 3D rendering.",
-      "Optimizing of GPU performance."
+      "2.5D sidescroller Lovecraftian horror game where Marie, a ship captain's daughter, navigates a storm-wracked vessel while experiencing terrifying visions that blur reality and nightmare."
     ],
-    "footer": "2.5D Sidescroller Lovecraftian Horror Game where Marie, a ship captain's daughter, navigates a storm-wracked vessel while experiencing terrifying visions that blur reality and nightmare.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -229,16 +205,14 @@
   },
   {
     "Title": "Chefhero",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "SubTitle": "Extra-Curricular Project",
     "ProjectDate": "Aug-May 2024",
     "Description": [
-      "Developed core system including player controls, enemy AI, and level progression.",
-      "Implemented 2D art using 2D rig and IK.",
-      "Implemented meta system of upgrades into the game."
+      "2D bullet heaven sidescroller where a chef saves his restaurant from invading food monsters using kitchen utensils and cooking tools."
     ],
-    "footer": "2D Bullet Heaven Sidescroller where a Chef saves his restaurant from invading food monsters using kitchen utensils and cooking tools.",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -251,17 +225,14 @@
   },
   {
     "Title": "Horde Switch",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "SubTitle": "Multiplayer powered by Photon Fusion",
     "ProjectDate": "May-Nov 2024",
     "Description": [
-      "Implemented multiplayer functionality using Photon Fusion.",
-      "Developed core gameplay mechanics and UI integration.",
-      "Optimized network performance for smooth gameplay experience.",
-      "Used Unity Cloud Build for continuous integration and delivery."
+      "3D multiplayer card game where players constantly try to survive against enemies and outlive the opponent."
     ],
-    "footer": "3D Multiplayer Card Game, where players are constantly trying to survive against enemies and outlive the opponent",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
@@ -273,17 +244,14 @@
   },
   {
     "Title": "Dead Lift",
-    "MyTitle": "Game Designer and Producer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 8,
     "SubTitle": "Global Game Jam Project",
     "ProjectDate": "Jan 2024",
     "Description": [
-      "Worked on physics-based character movement with a lot of joints and rigidbodies.",
-      "Implemented character art, rig and animations.",
-      "Developed Local Multiplayer",
-      "Slept 5 hours in total"
+      "Local multiplayer game about getting to the highest point of a zombie tower."
     ],
-    "footer": "Local Multiplayer game about getting at the highest point of a zombie tower",
+    "footer": "Led production, pipeline development, and core game design.",
     "media": [
       {
         "type": "video",
