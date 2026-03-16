@@ -1,35 +1,30 @@
 {
   "site": {
-    "title": "David Daniel Shapiro Portfolio",
-    "author": "David Daniel Shapiro",
-    "footerText": "© 2025 dendefo, ChatGPT5 and Claude Sonnet 4:)"
+    "title": "Jonathan Blau Portfolio",
+    "author": "Jonathan Blau",
+    "footerText": "© 2025 Coolsandwich & dendefo, ChatGPT5 and Claude Sonnet 4:)"
   },
   "header": {
-    "title": "David Daniel Shapiro Portfolio",
+    "title": "Jonathan Blau Protfolio",
     "downloadCV": {
       "text": "📄 Download CV",
-      "filename": "David_Daniel_Shapiro_CV.pdf",
+      "filename": "Jonathan_Blau_CV.pdf",
       "file": "cv.pdf"
     },
     "socialLinks": [
       {
         "name": "GitHub",
         "icon": "⚡",
-        "url": "https://github.com/dendefo",
+        "url": "https://github.com/CoolSandwich20",
         "class": "github-link"
       },
       {
-        "name": "LinkedIn", 
+        "name": "LinkedIn",
         "icon": "💼",
-        "url": "https://www.linkedin.com/in/dendefo/",
+        "url": "https://www.linkedin.com/in/jonathan-blau-b62879269/",
         "class": "linkedin-link"
-      },
-      {
-        "name": "Telegram",
-        "icon": "💬", 
-        "url": "https://t.me/dendefo",
-        "class": "telegram-link"
       }
+   
     ]
   },
   "content": {

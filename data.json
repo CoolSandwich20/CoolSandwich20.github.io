@@ -1,7 +1,7 @@
 [
   {
     "Title": "Idle Zoo World",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 5,
     "ProjectDate": "Dec 2024 - June 2025",
     "Description": [
@@ -31,7 +31,7 @@
   },
   {
     "Title": "Glass Jam",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer & Producer",
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
@@ -54,7 +54,7 @@
   },
   {
     "Title": "Recycle Jam",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
@@ -76,11 +76,11 @@
   },
   {
     "Title": "Myth Showdown",
-    "MyTitle": "Gameplay Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 8,
     "ProjectDate": "Oct 2025 - Nov 2025",
     "Publisher": "Crazy Labs",
-    "Description":[
+    "Description": [
       "Implement core gameplay autobattle systems, UI, and integrating art assets.",
       "Collaborated with designers and artists to implement engaging mechanics and visually appealing assets.",
       "Animated characters and effects using Unity's animation system and DOTween for smooth and responsive gameplay.",
@@ -98,8 +98,8 @@
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.cloverhoppa.dsd&hl=en"
   },
   {
-    "Title":"Hex Flow",
-    "MyTitle": "Solo Programmer",
+    "Title": "Hex Flow",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 6,
     "ProjectDate": "Dec 2025 - Jan 2026",
     "Publisher": "Crazy Labs",
@@ -107,7 +107,7 @@
       "Implemented core gameplay systems, UI, and integrating art assets.",
       "Developed quick prototype for marketability testing with changing requirements and tight deadlines."
     ],
-    "media":[
+    "media": [
       {
         "type": "video",
         "url": "https://www.youtube.com/embed/J_6ZYLMejX0",
@@ -119,18 +119,18 @@
   },
   {
     "Title": "Coffee Go!",
-    "MyTitle": "Tools Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 9,
     "ProjectDate": "Jan 2026 - Feb 2026",
     "Publisher": "Crazy Labs",
-    "Description":[
+    "Description": [
       "Created customer level editing tools workflow inside Unity Prefab Stage by using Handles as a designer control points",
       "Developed A* pathfinding solver algorithm based on state-space graph of the level and implemented it in C# to validate level solvability",
       "Designed a solution for robust anyisize multicolored trays for cups, allowing development for new mechains",
       "Collaborated with Lead developer to ensure seamless integration of tools into the development pipeline and provided ongoing support for tool usage and maintenance."
     ],
     "footer": "Puzzle Game, where player clicks on colored cups inside trays trying to clear the level by sending them to the correct colored trays",
-    "media":[
+    "media": [
       {
         "type": "video",
         "url": "https://www.youtube.com/embed/3dW1rGvoVKA",
@@ -141,7 +141,7 @@
   },
   {
     "Title": "Hidden Match World",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 5,
     "ProjectDate": "July 2025",
     "Description": [
@@ -177,7 +177,7 @@
   },
   {
     "Title": "Spaceship Defense TD",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 5,
     "ProjectDate": "Aug-Oct 2025",
     "Description": [
@@ -206,7 +206,7 @@
   },
   {
     "Title": "Miasma",
-    "MyTitle": "Lead Unity Developer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 8,
     "SubTitle": "College Project",
     "ProjectDate": "Jan-Sep 2025",
@@ -229,7 +229,7 @@
   },
   {
     "Title": "Chefhero",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 5,
     "SubTitle": "Extra-Curricular Project",
     "ProjectDate": "Aug-May 2024",
@@ -251,7 +251,7 @@
   },
   {
     "Title": "Horde Switch",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 5,
     "SubTitle": "Multiplayer powered by Photon Fusion",
     "ProjectDate": "May-Nov 2024",
@@ -273,7 +273,7 @@
   },
   {
     "Title": "Dead Lift",
-    "MyTitle": "Lead Unity Developer",
+    "MyTitle": "Game Designer and Producer",
     "TeamSize": 8,
     "SubTitle": "Global Game Jam Project",
     "ProjectDate": "Jan 2024",
